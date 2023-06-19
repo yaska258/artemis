@@ -78,3 +78,7 @@ https://github.com/farrukh90/artemis/tree/master
  
  <img width="1792" alt="main" src="https://github.com/farrukh90/artemis/assets/80778542/8de57be7-b1b2-4d45-8eb0-031c2a9eba3f">
  
+
+
+git config --global user.name yaska258
+git config --global user.email yazmyn121@gmail.com
